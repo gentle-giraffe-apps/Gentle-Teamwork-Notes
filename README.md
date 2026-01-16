@@ -14,4 +14,5 @@ This repository contains articles that help developers improve their teamwork an
 
 - [Asking Awesome Questions](asking_awesome_questions.md) - A practical guide for engineers on asking questions that respect others' time, demonstrate seniority, and unlock better answers.
 
-![Visitors](https://visitorbadge.io/status?repo=gentle-giraffe-apps/Gentle-Teamwork-Notes)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgentle-giraffe-apps%2FGentle-Teamwork-Notes)
+
