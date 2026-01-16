@@ -13,3 +13,5 @@ This repository contains articles that help developers improve their teamwork an
 - [How to Do Awesome PR Reviews](how_to_do_awesome_pr_reviews.md) - A reviewer's guide to healthy, effective pull request reviews. Covers how to give constructive feedback, balance blocking vs optional comments, and keep collaboration positive.
 
 - [Asking Awesome Questions](asking_awesome_questions.md) - A practical guide for engineers on asking questions that respect others' time, demonstrate seniority, and unlock better answers.
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gentle-giraffe-apps.Gentle-Teamwork-Notes)
